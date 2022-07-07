@@ -1,0 +1,117 @@
+a {
+  color: #a97155;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #be8c63;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #be8c63;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #a97155;
+  font-family: "Montserrat", sans-serif;
+}
+
+hr {
+  border: 10px #e4d1b9 none;
+  border-bottom-style: dotted;
+  width: 5%;
+}
+
+/* .middle-container {
+}
+
+.bottom-container {
+} */
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.bottom-container {
+  background-color: #e4d1b9;
+  color: #a97155;
+  padding: 60px;
+}
+
+.btn {
+  background-color: #be8c63;
+  border-radius: 16px;
+  color: #ffffff;
+  display: inline-block;
+  font-size: 1.3rem;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 16px;
+  padding: 10px 16px;
+}
+
+.btn:hover {
+  background-color: #a97155;
+  color: #ffffff;
+}
+
+.contact-me {
+  line-height: 2;
+  margin: 100px auto;
+}
+
+.footer-link {
+  display: inline-block;
+  margin: 30px;
+}
+
+.profile {
+  line-height: 2;
+  margin: 100px auto;
+  width: 40%;
+}
+
+.skills {
+  margin: 100px auto;
+}
+
+.skill-image-one {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image-two {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+}
+
+.top-container {
+  background-color: #e4d1b9;
+  padding: 75px;
+  position: relative;
+}
